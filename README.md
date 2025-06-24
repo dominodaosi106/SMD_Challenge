@@ -35,8 +35,8 @@
 - **表面処理**: 有鉛はんだ（RoHS非対応）
 - **ピンのピッチ**: T1-T6（マイコン書き込み用）は2.54mm
 
-![基板表](SMD_Challenge_2025 v1_SVG/top.svg)  
-![基板裏](SMD_Challenge_2025 v1_SVG/bottom.svg)
+![基板表](SMD_Challenge_2025_v1_SVG/top.svg)  
+![基板裏](SMD_Challenge_2025_v1_SVG/bottom.svg)
 
 ## 必要な工具
 - **はんだごて**: コテ先は尖ったものがおすすめ（例: HAKKO FX-600）。
