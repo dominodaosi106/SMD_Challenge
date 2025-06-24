@@ -48,9 +48,8 @@
 ## 組み立てガイド
 詳細な組み立て手順は、以下のリンクを参照してください：
 - [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.2.pdf)
-<div>
-<iframe width="600" height="400" src="https://youtu.be/hwRiR8ovcfM"></iframe>
-</div>
+[!['動作動画']('SMDChallenge_IGP1120.JPG')]('https://youtu.be/hwRiR8ovcfM')
+
 
 
 ### 製作のポイント
