@@ -48,7 +48,10 @@
 ## 組み立てガイド
 詳細な組み立て手順は、以下のリンクを参照してください：
 - [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.2.pdf)
-- [動作動画](https://youtu.be/hwRiR8ovcfM)
+<div>
+<iframe width="600" height="400" src="https://youtu.be/hwRiR8ovcfM"></iframe>
+</div>
+
 
 ### 製作のポイント
 1. **表面（TOP）から開始**: 裏面から始めると難易度が跳ね上がります！
