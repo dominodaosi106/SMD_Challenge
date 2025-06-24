@@ -24,7 +24,7 @@
 - 説明書 x 1枚
 - 0.3mm糸はんだ（約30cm、サンプル用）
 
-※注意: サンプル用の糸はんだは少量です。作業には別途はんだをご用意ください。
+※注意: サンプル用の糸はんだは少量です。十分に足りる量だと思われますが、不足する場合は別途はんだをご用意ください。
 
 ## 必要な工具
 - **はんだごて**: コテ先は尖ったものがおすすめ（例: HAKKO FX-600）。
@@ -36,7 +36,7 @@
 
 ## 組み立てガイド
 詳細な組み立て手順は、以下のリンクを参照してください：
-- [組み立て説明書](Manual/SMD Challenge Badge Manual_ver2.2.pdf)
+- [組み立て説明書](file:Manual/SMD Challenge Badge Manual_ver2.2.pdf)
 - [完成動作動画](https://youtu.be/hwRiR8ovcfM)
 
 ## 完成したら
@@ -47,9 +47,11 @@
 - このキットは非常に小さな部品を扱います。作業中は部品を失くさないよう注意してください（部品が飛んでいくのはSMDの宿命です！）。
 - ver2以降、電池ホルダが変更されています。説明書をよく確認してください。
 - 安全第一！はんだごての取り扱いには十分注意してください。
+- **0603のLEDは非常に脆いです。**完成後はレジンで固めたりケースに入れるなどして保護することを推奨します。
 
 ## サポート
-質問やサポートが必要な場合は、[dominoTECHのブログ](https://dominotech.blogspot.com/2024/08/smd-challenge-badge.html)からお問い合わせください。また、コミュニティで[#SMD_Challenge](https://twitter.com/hashtag/SMD_Challenge)をチェックして、他の挑戦者と交流しましょう！
+質問やサポートが必要な場合は、[dominodaosi106](https://Twitter.com/dominodaosi106)か説明書のメールアドレスからお問い合わせください。
+また、コミュニティで[#SMD_Challenge](https://twitter.com/hashtag/SMD_Challenge)をチェックして、他の挑戦者と交流しましょう！
 
 ## クレジット
 このプロジェクトは、[Hackaday.ioの"An Unfortunate SMD Project"](https://hackaday.io/project/25265-an-unfortunate-smd-project)にインスパイアされています。オリジナルプロジェクトに敬意を表しつつ、より挑戦しやすく改良しました。
