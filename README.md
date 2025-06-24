@@ -37,6 +37,8 @@
 
 ![基板表](SVG/SMD_Challenge_2025_v1_SVG/top.svg)![基板裏](SVG/SMD_Challenge_2025_v1_SVG/bottom.svg)
 
+<img src="SVG/SMD_Challenge_2025_v1_SVG/top.svg" width="300">
+
 ## 必要な工具
 - **はんだごて**: コテ先は尖ったものがおすすめ（例: HAKKO FX-600）。
 - **鉛入りはんだ**: 0.3mmの細いもの（例: “HOZAN H-712” “千住金属工業 RMA98SUPER-P3-SN60-0.3”など）が最適。
