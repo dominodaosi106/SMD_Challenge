@@ -74,8 +74,7 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 
 ## 組み立てガイド
 詳細な組み立て手順は、以下のリンクを参照してください：
-- [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.2.pdf)
-
+- [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.2.pdf)  
 [![動作動画](http://img.youtube.com/vi/hwRiR8ovcfM/0.jpg)](https://www.youtube.com/watch?v=hwRiR8ovcfM )
 
 
@@ -101,13 +100,9 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 - **RoHS非対応**: 鉛入りはんだを使用。取り扱いに注意。
 - **0603のLEDは非常に脆い**: 完成後はUVレジンやケースで保護を。
 
-推奨ケース：
+推奨ケース
 - [明邦化学工業 ラウンドケース S 5段 クリア](https://meihokagaku.co.jp/?p=2736)
 - [ラウンドケースS　フタ](https://meihokagaku.co.jp/?p=2709)
-
-## サポート
-質問やサポートが必要な場合は、[dominodaosi106](https://twitter.com/dominodaosi106)か説明書のメールアドレスからお問い合わせください。
-また、コミュニティで[#SMD_Challenge](https://twitter.com/hashtag/SMD_Challenge)をチェックして、他の挑戦者と交流しましょう！
 
 ## オリジナルとの改良点
 
@@ -122,12 +117,18 @@ SMD Challenge Badgeは、[Hackaday.ioの"An Unfortunate SMD Project"](https://ha
 
 これらの改良で、挑戦のスリルはそのままに、初心者から上級者まで楽しめるキットに仕上げました！
 
+## サポート
+質問やサポートが必要な場合は、[dominodaosi106](https://twitter.com/dominodaosi106)か説明書のメールアドレスからお問い合わせください。  
+また、コミュニティで[#SMD_Challenge](https://twitter.com/hashtag/SMD_Challenge)をチェックして、他の挑戦者と交流しましょう！
+
 ## よくある質問
 ### **部品をなくした！**
 - 0603は飛んでいきがち。0603LEDは秋月へ。型番:OSB50201C1E(販売コード:118279)
 - 0603は飛んでいきがち。0603抵抗はDigiKeyへ。型番:WR02X102 JAL ※[マルツ](https://www.marutsu.co.jp/pc/i/35771794/)でも入手可能
-- **LEDが光らない？**: 極性ミスはSMDの洗礼。説明書やテスターでカソードを確認！
-- **おすすめのはんだごては？**: HAKKO FX-600にT18-C1やT18-ISがオススメ!
+- LEDが光らない？: 極性ミスはSMDの洗礼。説明書やテスターでカソードを確認！
+- おすすめのはんだごては？: HAKKO FX-600にT18-C1やT18-ISがオススメ!
+- **実体顕微鏡がない！**: 100円ショップのルーペでも代用可。根気でカバー！
+
 ---
 
 **はんだごてを握り、SMDの極小世界に挑もう！**  
