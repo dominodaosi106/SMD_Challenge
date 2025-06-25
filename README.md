@@ -75,6 +75,7 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 ## 組み立てガイド
 詳細な組み立て手順は、以下のリンクを参照してください：
 - [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.2.pdf)  
+動作確認動画  
 [![動作動画](http://img.youtube.com/vi/hwRiR8ovcfM/0.jpg)](https://www.youtube.com/watch?v=hwRiR8ovcfM )
 
 
@@ -92,7 +93,8 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 ※SMD部品の開封はキット付属の薄い袋の中で行うと、紛失リスクを少し軽減できます。
 
 ## 完成したら
-- **SNSで投稿**: Twitterやその他のSNSで[#SMD_Challenge](https://twitter.com/intent/tweet?hashtags=SMD_Challenge)を付けて投稿！。成功も失敗も、コミュニティでシェアしよう！
+- **SNSで投稿**: Twitterやその他のSNSで[#SMD_Challenge](https://twitter.com/intent/tweet?hashtags=SMD_Challenge)を付けて投稿！。  
+成功も失敗も、コミュニティでシェアしよう！
 - **挑戦の証**: 完成したバッジを胸に、はんだ付けの「狂人」として誇示！
 
 ## 注意事項
