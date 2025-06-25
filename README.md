@@ -99,7 +99,11 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 ## 注意事項
 - **電池の向き**: CR2032はマイナス面が基板側。
 - **RoHS非対応**: 鉛入りはんだを使用。取り扱いに注意。
-- **0603のLEDは非常に脆い**: 完成後はUVレジンやケースで保護を。推奨：[明邦化学工業 ラウンドケース S 5段 クリア](https://meihokagaku.co.jp/?p=2736)、[フタ](https://meihokagaku.co.jp/?p=2709)。
+- **0603のLEDは非常に脆い**: 完成後はUVレジンやケースで保護を。
+
+推奨ケース：
+- [明邦化学工業 ラウンドケース S 5段 クリア](https://meihokagaku.co.jp/?p=2736)
+- [ラウンドケースS　フタ](https://meihokagaku.co.jp/?p=2709)
 
 ## サポート
 質問やサポートが必要な場合は、[dominodaosi106](https://twitter.com/dominodaosi106)か説明書のメールアドレスからお問い合わせください。
