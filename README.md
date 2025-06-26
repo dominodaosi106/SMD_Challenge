@@ -130,7 +130,7 @@ SMD Challenge Badgeは、[Hackaday.ioの"An Unfortunate SMD Project"](https://ha
 ## よくある質問
 ### **部品をなくした！**
 - 0603は飛んでいきがち。0603LEDは秋月へ。型番:OSB50201C1E(販売コード:118279)
-- 0603は飛んでいきがち。0603抵抗はDigiKeyへ。型番:WR02X102 JAL ※[マルツ](https://www.marutsu.co.jp/pc/i/35771794/)でも入手可能
+- 0603は飛んでいきがち。0603抵抗はDigiKeyへ。型番:[WR02X102](https://www.digikey.jp/ja/products/detail/walsin-technology-corporation/WR02X102-JAL/13238943)※[マルツ](https://www.marutsu.co.jp/pc/i/35771794/)でも入手可能
 - LEDが光らない？: 極性ミスはSMDの洗礼。説明書やテスターでカソードを確認！
 - おすすめのはんだごては？: HAKKO FX-600にT18-C1やT18-ISがオススメ!
 - **実体顕微鏡がない！**: 100円ショップのルーペでも代用可。根気でカバー！
