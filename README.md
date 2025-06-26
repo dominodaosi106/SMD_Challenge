@@ -15,7 +15,7 @@
 
 ## キット内容
 
-SMD Challenge Badgeのキット内容は以下の通り。極小パーツを揃えて、挑戦の準備は万端！
+SMD Challenge Badgeのキット内容は以下の通り。
 
 | 部品名           | 詳細                              | 数量             |
 |------------------|-----------------------------------|------------------|
@@ -62,7 +62,7 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 - **パターン幅**: 0.254mm（10mil）で設計
 - **設計のこだわり**: 0.254mmパターンで0603部品の安定実装と手作業の限界を両立。円形基板で缶バッジ風の見た目を追求！
 
-※ガーバーデータは[Gerberフォルダ](Gerber)にあります。SVG版も[SVGフォルダ](SVG)で公開！気軽に基板パターンを眺めたい人はSVGをチェック！
+※ガーバーデータは[Gerberフォルダ](Gerber)にあります。SVG版も[SVGフォルダ](SVG)で公開しています。気軽に基板パターンを眺めたい人はSVGをチェック！
 
 <img src="SVG/SMD_Challenge_2025_v1_SVG/top.svg" width="300"> <img src="SVG/SMD_Challenge_2025_v1_SVG/bottom.svg" width="300">
 
@@ -76,7 +76,8 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 
 ## 組み立てガイド
 詳細な組み立て手順は、以下のリンクを参照してください：
-- [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.2.pdf)  
+- [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.2.pdf)
+
 動作確認動画  
 [![動作動画](http://img.youtube.com/vi/hwRiR8ovcfM/0.jpg)](https://www.youtube.com/watch?v=hwRiR8ovcfM )
 
