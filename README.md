@@ -4,7 +4,7 @@
 
 # SMD_Challenge
 
-このプロジェクトは、aspro648のAttiny85Challenge（https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge）を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています（https://creativecommons.org/licenses/by-sa/3.0/us/）。また、https://www.tindie.com/products/makersbox/smd-challenge を参考にしています。
+このプロジェクトは、aspro648の[Attiny85Challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています[https://creativecommons.org/licenses/by-sa/3.0/us/](https://creativecommons.org/licenses/by-sa/3.0/us/)。また、https://www.tindie.com/products/makersbox/smd-challenge を参考にしています。
 
 ## ライセンス
 このプロジェクトはCC BY-SA 3.0 USライセンスに従います。派生作品も同一ライセンスで公開する必要があります。詳細は[LICENSEファイル](LICENSE.md)をご覧ください。
