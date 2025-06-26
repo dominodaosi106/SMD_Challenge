@@ -4,7 +4,7 @@
 
 # SMD_Challenge
 
-このプロジェクトは、aspro648の[Attiny85Challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています[https://creativecommons.org/licenses/by-sa/3.0/us/](https://creativecommons.org/licenses/by-sa/3.0/us/)。  
+このプロジェクトは、aspro648の[Attiny85Challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています[https://creativecommons.org/licenses/by-sa/3.0/us/](https://creativecommons.org/licenses/by-sa/3.0/us/)  
 また、https://www.tindie.com/products/makersbox/smd-challenge を参考にしています。
 
 ## ライセンス
@@ -153,6 +153,10 @@ SMD Challenge Badgeは、[Hackaday.ioの"An Unfortunate SMD Project"](https://ha
 - LEDが光らない？: 極性ミスはSMDの洗礼。説明書やテスターでカソードを確認！
 - おすすめのはんだごては？: HAKKO FX-600にT18-C1やT18-ISがオススメ!
 - **実体顕微鏡がない！**: 100円ショップのルーペでも代用可。根気でカバー！
+
+---
+
+##[バッジを完成させた人物の一覧](COMPLETERS.md)
 
 ---
 
