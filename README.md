@@ -95,7 +95,7 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 
 ## 組み立てガイド
 詳細な組み立て手順は、以下のリンクを参照してください：
-- [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.2.pdf)
+- [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.3.pdf)
 
 動作確認動画  
 [![動作動画](http://img.youtube.com/vi/hwRiR8ovcfM/0.jpg)](https://www.youtube.com/watch?v=hwRiR8ovcfM )
