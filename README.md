@@ -156,7 +156,7 @@ SMD Challenge Badgeは、[Hackaday.ioの"An Unfortunate SMD Project"](https://ha
 
 ---
 
-##[バッジを完成させた人物の一覧](COMPLETERS.md)
+## [バッジを完成させた人物の一覧](COMPLETERS.md)
 
 ---
 
