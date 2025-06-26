@@ -2,6 +2,12 @@
  *SMD Challenge Badge ATtiny13A 32mm 
  *製作 dominoTECH EqUret
  *製作年 20240809
+ */*
+ * SMD Challenge - 基にしたプロジェクト: https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge
+ * ライセンス: CC BY-SA 3.0 US (https://creativecommons.org/licenses/by-sa/3.0/)
+ * 作成者: [あなたの名前]
+ * 変更点: [LEDの配置を変更、ATtiny85からATtiny13Aに変更]
+ */
  */
 #include<avr/io.h>
 #include<util/delay.h>
