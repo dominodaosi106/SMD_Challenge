@@ -2,6 +2,22 @@
 
 ![SMD Challenge Badge](SMDChallenge_IGP1120.JPG)
 
+# SMD_Challenge
+
+このプロジェクトは、aspro648のAttiny85Challenge（https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge）を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています（https://creativecommons.org/licenses/by-sa/3.0/us/）。また、https://www.tindie.com/products/makersbox/smd-challenge を参考にしています。
+
+## ライセンス
+このプロジェクトはCC BY-SA 3.0 USライセンスに従います。派生作品も同一ライセンスで公開する必要があります。詳細は[LICENSEファイル](LICENSE.md)をご覧ください。
+
+## 変更点
+- LEDの配置を変更し、視認性を向上。
+- ファームウェアに新機能を追加（例：点滅パターンの追加）。
+- ボードのサイズを最適化し、製造コストを削減。
+
+## クレジット
+- オリジナルプロジェクト: aspro648 (https://github.com/aspro648/KiCad)
+- 参考製品: Maker's Box SMD Challenge (https://www.tindie.com/products/makersbox/smd-challenge)
+
 **SMD Challenge Badge**は、あなたの表面実装（SMD）はんだ付けスキルを試す究極のキットです！  
 ゴマより小さな0603（0.6mm x 0.3mm）のLEDをはんだ付けして、技術と忍耐の限界に挑戦しましょう。  
 このキットは、[Hackaday.ioの"An Unfortunate SMD Project"](https://hackaday.io/project/25265-an-unfortunate-smd-project)を参考に、部品や基板パターンを改良して再構築したものです。  
@@ -57,7 +73,7 @@ SMD Challenge Badgeのキット内容は以下の通り。
 SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られています！挑戦の舞台裏を覗いてみよう！
 
 - **設計ツール**: EAGLE 6.6.0 Professionalを使用
-- **ガーバーデータ**: 提供していますが、個人使用に限定。商用利用はご遠慮ください。このキットは挑戦者のためのもの！
+- **ガーバーデータ**: [Gerberフォルダ](Gerber)に提供しています。CC BY-SA 3.0 USライセンスに従い、個人使用および商用利用が可能です。ただし、派生作品も同一ライセンスで公開してください。
 - **基板サイズ**: 直径32mmの円形で、缶バッジと同じサイズ感を狙った！。胸に輝くバッジに最適！
 - **パターン幅**: 0.254mm（10mil）で設計
 - **設計のこだわり**: 0.254mmパターンで0603部品の安定実装と手作業の限界を両立。円形基板で缶バッジ風の見た目を追求！
