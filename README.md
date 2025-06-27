@@ -17,7 +17,7 @@
 - スイッチの追加
 
 ## クレジット
-- オリジナルプロジェクト: aspro648 (https://github.com/aspro648/KiCad)
+- オリジナルプロジェクト: aspro648 Attiny85Challenge (https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)
 - 参考製品: Maker's Box SMD Challenge (https://www.tindie.com/products/makersbox/smd-challenge)
 
 **SMD Challenge Badge**は、あなたの表面実装部品をはんだ付けスキルを試す究極のキットです！  
