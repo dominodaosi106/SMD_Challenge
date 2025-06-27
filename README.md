@@ -84,7 +84,7 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 - **パターン幅**: 0.254mm（10mil）で設計
 - **設計のこだわり**: 0.254mmパターンで0603部品の安定実装と手作業の限界を両立。円形基板で缶バッジ風の見た目を追求！
 
-※ガーバーデータは[Gerberフォルダ](Gerber)にあります。SVG版も[SVGフォルダ](SVG)で公開しています。気軽に基板パターンを眺めたい人はSVGをチェック！
+※ガーバーデータは[Gerberフォルダ](https://github.com/dominodaosi106/SMD_Challenge/tree/main/Gerber)にあります。SVG版も[SVGフォルダ](https://github.com/dominodaosi106/SMD_Challenge/tree/main/SVG)で公開しています。気軽に基板パターンを眺めたい人はSVGをチェック！
 
 <img src="SVG/SMD_Challenge_2025_v1_SVG/top.svg" width="300"> <img src="SVG/SMD_Challenge_2025_v1_SVG/bottom.svg" width="300">
 
