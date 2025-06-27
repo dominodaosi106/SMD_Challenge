@@ -2,7 +2,7 @@
 
 | Name/Handle            | SNS Link                                                                           | Completion Date |
 |------------------------|------------------------------------------------------------------------------------|-----------------|
-| dominodaosi106         | [@dominodaosi106](https://Twitter.com/dominodaosi106)                              | 2024/08/10      |
+| dominodaosi106         | [@dominodaosi106](https://Twitter.com/dominodaosi106/status/1821849628398252090)   | 2024/08/09      |
 | kikyouya_wa            | [@kikyouya_wa](https://Twitter.com/kikyouya_wa/status/1833388959856267572)         | 2024/09/10      |
 | chrogoma               | [@chrogoma](https://Twitter.com/chrogoma/status/1837483434882547880)               | 2024/09/21      |
 | nao_denha              | [@nao_denha](https://Twitter.com/nao_denha/status/1838162947585278253)             | 2024/09/23      |
