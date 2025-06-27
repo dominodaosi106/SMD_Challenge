@@ -4,7 +4,8 @@
 
 # SMD_Challenge
 
-このプロジェクトは、aspro648の[Attiny85Challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています[https://creativecommons.org/licenses/by-sa/3.0/us/](https://creativecommons.org/licenses/by-sa/3.0/us/)  
+このプロジェクトは、aspro648の[Attiny85Challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています。  
+[https://creativecommons.org/licenses/by-sa/3.0/us/](https://creativecommons.org/licenses/by-sa/3.0/us/)  
 また、https://www.tindie.com/products/makersbox/smd-challenge を参考にしています。
 
 ## ライセンス
@@ -20,9 +21,11 @@
 - オリジナルプロジェクト: aspro648 Attiny85Challenge (https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)
 - 参考製品: Maker's Box SMD Challenge (https://www.tindie.com/products/makersbox/smd-challenge)
 
+---
+
 **SMD Challenge Badge**は、あなたの表面実装部品をはんだ付けスキルを試す究極のキットです！  
 ゴマより小さな0603（0.6mm x 0.3mm）のLEDをはんだ付けして、技術と忍耐の限界に挑戦しましょう。  
-このキットは、[Hackaday.ioの"An Unfortunate SMD Project"](https://hackaday.io/project/25265-an-unfortunate-smd-project)を参考に、部品や基板パターンを改良して再構築したものです。  
+このキットは、[SMD Challenge Badge](https://dominotech.booth.pm/items/6001653)から入手できます。  
 上級者向けですが、初心者も大歓迎！さあ、挑戦する覚悟はできていますか？
 
 ## 特徴
