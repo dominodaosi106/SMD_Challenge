@@ -104,7 +104,6 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 動作確認動画  
 [![動作動画](http://img.youtube.com/vi/hwRiR8ovcfM/0.jpg)](https://www.youtube.com/watch?v=hwRiR8ovcfM )
 
-
 ### 製作のポイント
 1. **表面（TOP）から開始**: 裏面から始めると難易度が跳ね上がります！
 2. **大きい部品から**: 3216→2012→1608→1005→0603の順で。大きいSMD部品から始めるとモチベーションを保ちやすいです。
@@ -118,6 +117,8 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 9. **フラックス除去**: フラックスクリーナー（例: FL-500）やイソプロピルアルコールで洗浄して完成！
 
 ※SMD部品の開封はキット付属の薄い袋の中で行うと、紛失リスクを少し軽減できます。
+
+安全に気をつけて、はんだ付けの「狂人」への道を突き進もう！
 
 ## 完成したら
 - **SNSで投稿**: Twitterやその他のSNSで[#SMD_Challenge](https://twitter.com/intent/tweet?hashtags=SMD_Challenge)を付けて投稿！  
@@ -133,10 +134,10 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 - [明邦化学工業 ラウンドケース S 5段 クリア](https://meihokagaku.co.jp/?p=2736)
 - [ラウンドケースS　フタ](https://meihokagaku.co.jp/?p=2709)
 
-##ファームウェア
-このキットのAVRマイコンはHIDaspxを使って書き込みされています。  
+## ファームウェア
+このキットのAVRマイコンはHIDaspxを使って書き込みしています。  
 AtmelStudio7を使ってプログラミングしてコンパイルしています。  
-AVRマイコンのファームウェアは[Firmware](Firmware)にあります。
+AVRマイコンのファームウェアなどは[Firmware](Firmware)にあります。
 
 
 ## オリジナルとの改良点
