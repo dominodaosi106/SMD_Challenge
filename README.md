@@ -133,6 +133,12 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 - [明邦化学工業 ラウンドケース S 5段 クリア](https://meihokagaku.co.jp/?p=2736)
 - [ラウンドケースS　フタ](https://meihokagaku.co.jp/?p=2709)
 
+##ファームウェア
+このキットのAVRマイコンはHIDaspxを使って書き込みされています。  
+AtmelStudio7を使ってプログラミングしてコンパイルしています。  
+AVRマイコンのファームウェアは[Firmware](Firmware)にあります。
+
+
 ## オリジナルとの改良点
 
 SMD Challenge Badgeは、[Hackaday.ioの"An Unfortunate SMD Project"](https://hackaday.io/project/25265-an-unfortunate-smd-project)に敬意を表しつつ、使いやすさと耐久性を追求して進化させました！以下は、本家との主な違い：
