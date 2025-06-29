@@ -66,4 +66,7 @@
 | ATmega88V              | [@ATmega88V](https://Twitter.com/ATmega88V/status/1885908128304406543)             | 2025/02/02      |
 | masa_ya                | [@masa_ya](https://Twitter.com/masa_ya/status/1903115760899424556)                 | 2025/03/22      |
 | Ydkn0yGXtivzJCx        | [@Ydkn0yGXtivzJCx](https://Twitter.com/Ydkn0yGXtivzJCx/status/1909885373351956519) | 2025/04/09      |
+| Natsu_umidigi          | [@Natsu_umidigi](https://Twitter.com/Natsu_umidigi/status/1938939605514076395)     | 2025/06/28      |
+| HanDen_Motor           | [@HanDen_Motor](https://Twitter.com/HanDen_Motor/status/1939243479676363141)       | 2025/06/29      |
+| idstudio_Global        | [@idstudio_Global](https://Twitter.com/idstudio_Global/status/1939263672389693907) | 2025/06/29      |
 
