@@ -25,7 +25,7 @@
 
 **SMD Challenge Badge**は、あなたの表面実装部品をはんだ付けスキルを試す究極のキットです！  
 ゴマより小さな0603（0.6mm x 0.3mm）のLEDをはんだ付けして、技術と忍耐の限界に挑戦しましょう。  
-このキットは、[SMD Challenge Badge](https://dominotech.booth.pm/items/6001653)から入手できます。  
+このキットは、[BOOTH SMD Challenge Badge](https://dominotech.booth.pm/items/6001653)から入手できます。  
 上級者向けですが、初心者も大歓迎！さあ、挑戦する覚悟はできていますか？
 
 ## 特徴
