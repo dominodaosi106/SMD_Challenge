@@ -91,7 +91,7 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 
 ## 必要な工具
 - **はんだごて**: はんだごてはできれば温調できるもの。コテ先は尖ったものがおすすめ  
-（例: `HAKKO FX-600`→`T18-C1` , `HAKKO FX-650`→`T34-C08` , `ALIENTEK T80`→`T210-I tip`）
+（例: `HAKKO FX-600`→`T18-C1` , `HAKKO FX-650`→`T34-C08` , `PX-280`→`PX-28RT-1BC` , `ALIENTEK T80`→`T210-I tip`）
 - **鉛入りはんだ**: 0.3mmの細いものが最適  
 （例 : `HOZAN H-712` `HAKKO FS311-03101` `千住金属工業 RMA98SUPER-P3-SN60-0.3`など）
 - **フラックス**: 普段使っているものでOK （`サンハヤト HB-L15F` `HOZAN H-722` `HAKKO FS242-10`）
