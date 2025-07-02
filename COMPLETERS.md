@@ -70,5 +70,6 @@
 | HanDen_Motor           | [@HanDen_Motor](https://Twitter.com/HanDen_Motor/status/1939243479676363141)       | 2025/06/29      |
 | idstudio_Global        | [@idstudio_Global](https://Twitter.com/idstudio_Global/status/1939263672389693907) | 2025/06/29      |
 | analog_2p              | [@analog_2p](https://Twitter.com/analog_2p/status/1940391889561411780)             | 2025/07/02 ⚠   |
+| ciniml                 | [@analog_2p](https://Twitter.com/ciniml/status/1940408219077394863)                | 2025/07/02      |
 
 
