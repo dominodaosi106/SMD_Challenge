@@ -69,6 +69,6 @@
 | Natsu_umidigi          | [@Natsu_umidigi](https://Twitter.com/Natsu_umidigi/status/1938939605514076395)     | 2025/06/28      |
 | HanDen_Motor           | [@HanDen_Motor](https://Twitter.com/HanDen_Motor/status/1939243479676363141)       | 2025/06/29      |
 | idstudio_Global        | [@idstudio_Global](https://Twitter.com/idstudio_Global/status/1939263672389693907) | 2025/06/29      |
-| analog_2p              | [@analog_2p](https://Twitter.com/analog_2p/status/1940391889561411780)             | 2025/07/02      |
+| analog_2p              | [@analog_2p](https://Twitter.com/analog_2p/status/1940391889561411780)             | 2025/07/02 ⚠   |
 
 
