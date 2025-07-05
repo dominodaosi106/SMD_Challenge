@@ -72,5 +72,4 @@
 | analog_2p              | [@analog_2p](https://Twitter.com/analog_2p/status/1940391889561411780)             | 2025/07/02 ⚠   |
 | ciniml                 | [@ciniml](https://Twitter.com/ciniml/status/1940408219077394863)                   | 2025/07/02      |
 | lovyan03               | [@lovyan03](https://Twitter.com/lovyan03/status/1940421540727992651)               | 2025/07/02      |
-
-
+| nik_WESTSEW            | [@nik_WESTSEW](https://Twitter.com/nik_WESTSEW/status/1941491580378181923)         | 2025/07/05      |
