@@ -139,6 +139,7 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 推奨ケース
 - [明邦化学工業 ラウンドケース S 5段 クリア](https://meihokagaku.co.jp/?p=2736)
 - [ラウンドケースS　フタ](https://meihokagaku.co.jp/?p=2709)
+- 専用のケースを設計しました。[STLデータはこちら](3D/40mm_round_cap.stl)
 
 ## ファームウェア
 このキットのAVRマイコンはHIDaspxを使って書き込みしています。  
