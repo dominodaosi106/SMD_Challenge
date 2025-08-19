@@ -75,3 +75,4 @@
 | nik_WESTSEW            | [@nik_WESTSEW](https://Twitter.com/nik_WESTSEW/status/1941491580378181923)         | 2025/07/05      |
 | pcb_neetfactory        | [@pcb_neetfactory](https://Twitter.com/pcb_neetfactory/status/1941756647938064893) | 2025/07/06      |
 | gonbei1130             | [@gonbei1130](https://Twitter.com/gonbei1130/status/1954134708436017444)           | 2025/08/09      |
+| yue_roo                | [@yue_roo](https://Twitter.com/yue_roo/status/1956282706997780512)                 | 2025/08/15      |
