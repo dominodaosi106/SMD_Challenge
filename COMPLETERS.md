@@ -73,6 +73,7 @@
 | ciniml                 | [@ciniml](https://Twitter.com/ciniml/status/1940408219077394863)                   | 2025/07/02      |
 | lovyan03               | [@lovyan03](https://Twitter.com/lovyan03/status/1940421540727992651)               | 2025/07/02      |
 | nik_WESTSEW            | [@nik_WESTSEW](https://Twitter.com/nik_WESTSEW/status/1941491580378181923)         | 2025/07/05      |
-| pcb_neetfactory        | [@pcb_neetfactory](https://Twitter.com/pcb_neetfactory/status/1941756647938064893) | 2025/07/06      |
+| NEET_FACT0RY           | [@NEET_FACT0RY](https://Twitter.com/NEET_FACT0RY/status/1941756647938064893)       | 2025/07/06      |
 | gonbei1130             | [@gonbei1130](https://Twitter.com/gonbei1130/status/1954134708436017444)           | 2025/08/09      |
 | yue_roo                | [@yue_roo](https://Twitter.com/yue_roo/status/1956282706997780512)                 | 2025/08/15      |
+| washishi               | [@washishi](https://Twitter.com/washishi/status/1964560233612922917)               | 2025/09/07      |
