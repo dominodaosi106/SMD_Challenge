@@ -77,3 +77,4 @@
 | gonbei1130             | [@gonbei1130](https://Twitter.com/gonbei1130/status/1954134708436017444)           | 2025/08/09      |
 | yue_roo                | [@yue_roo](https://Twitter.com/yue_roo/status/1956282706997780512)                 | 2025/08/15      |
 | washishi               | [@washishi](https://Twitter.com/washishi/status/1964560233612922917)               | 2025/09/07      |
+| masa10200991           | [@masa10200991](https://Twitter.com/masa10200991/status/1974982875713048637)       | 2025/10/06      |
