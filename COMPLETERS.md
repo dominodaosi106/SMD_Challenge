@@ -80,3 +80,4 @@
 | dominodaosi106         | [@dominodaosi106](https://Twitter.com/dominodaosi106/status/1972471493859893611)   | 2025/10/03 RoHs |
 | y1215v                 | [@y1215v](https://Twitter.com/y1215v/status/1974054424927781255)                   | 2025/10/03 RoHs |
 | masa10200991           | [@masa10200991](https://Twitter.com/masa10200991/status/1974982875713048637)       | 2025/10/06      |
+| _kazubu                | [@_kazubu](https://Twitter.com/_kazubu/status/1976323974528418265)                 | 2025/10/10      |
