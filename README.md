@@ -134,6 +134,7 @@ SMD Challenge Badgeの基板は、挑戦者の心を掴む設計で作られて�
 ---
 
 ## [バッジを完成させた人物の一覧](COMPLETERS.md)
+※@dominodaosi106 が不定期で更新しています。
 
 ---
 
