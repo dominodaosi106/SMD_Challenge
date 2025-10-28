@@ -83,3 +83,4 @@
 | _kazubu                | [@_kazubu](https://Twitter.com/_kazubu/status/1976323974528418265)                 | 2025/10/10      |
 | Ocelo_465              | [@Ocelo_465](https://Twitter.com/Ocelo_465/status/1977636177772777664)             | 2025/10/13      |
 | oiroppa                | [@oiroppa](https://Twitter.com/oiroppa/status/1979571401393873351)                 | 2025/10/19      |
+| imotty                 | [@imotty](https://Twitter.com/imotty/status/1981905180426989782)                   | 2025/10/25      |
