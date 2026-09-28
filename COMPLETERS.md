@@ -84,3 +84,4 @@
 | Ocelo_465              | [@Ocelo_465](https://Twitter.com/Ocelo_465/status/1977636177772777664)             | 2025/10/13      |
 | oiroppa                | [@oiroppa](https://Twitter.com/oiroppa/status/1979571401393873351)                 | 2025/10/19      |
 | imotty                 | [@imotty](https://Twitter.com/imotty/status/1981905180426989782)                   | 2025/10/25      |
+| kirin_nico             | [@kirin_nico](https://Twitter.com/kirin_nico/status/2101917697420492975)           | 2026/09/21      |
